@@ -1,0 +1,5 @@
+.venv
+**.txt
+**.pkl
+**.log
+/output
